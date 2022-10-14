@@ -20,7 +20,7 @@ https://imgflip.com/api
 
 <h3>Authors</h3>
 
-[@AndreiPashinskii](https://github.com/AndreiPashinskii)
+[@AndreyPashinsky](https://github.com/AndreyPashinsky)
 
 <h3>About me</h3>
 
